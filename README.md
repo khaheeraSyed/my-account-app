@@ -1,4 +1,19 @@
 # my-account-app
+## structure
+src/
+├── components/
+│   ├── LoginForm.js
+│   ├── RegistrationForm.js
+│   └── AccountDetails.js
+├── pages/
+│   ├── LoginPage.js
+│   ├── RegistrationPage.js
+│   └── AccountPage.js
+├── utils/
+│   └── api.js
+├── App.js
+└── index.js
+
 
 A simple React application for user account management.
 
